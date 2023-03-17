@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshmali-byte
-- 👀 I’m interested in exploring new features and give contribution for nurturing my technical skills..
+- 👀 I’m interested in exploring new features and always ready for contribution in order to nurture my skills.. 
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate  with those developers whose skills are relevant to me .. 
 - 📫 feel free to contact me you can reach to me..
