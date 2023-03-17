@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate  with those developers whose skills are relevant to me .. 
 - 📫 feel free to contact me you can reach to me..
 - harshmali984@gmail.com
-- www.linkedin.com/in/harsh-mali-96a787228
+- https://www.linkedin.com/in/harsh-mali-7007b6228
 
 
 <!---
