@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshmali-byte
 - 👀 I’m interested in exploring new features and always ready for contribution in order to nurture my skills.. 
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m proficient in Web development along with  skills Mern stack,java ,SQL,dbms,etc
 - 💞️ I’m looking to collaborate  with those developers whose skills are relevant to me .. 
 - 📫 feel free to contact me you can reach to me..
 - harshmali984@gmail.com
